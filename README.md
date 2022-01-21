@@ -9,6 +9,10 @@ Pipeline for cut&amp;run analysis:
 6. Peak calling: MACS2 peak calling from bam [currently broad enrichment, relaxed cutoff, on removed duplicate files]
 7. Read counting: Deeptools multiBigwigSummary on bigwigfiles [with a given reference genomic region BED files]
 
+Pawel Mikulski
+Jansen group, Dept. of Biochemistry
+University of Oxford
+
 
 
 
