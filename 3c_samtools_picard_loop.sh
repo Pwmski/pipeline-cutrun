@@ -14,5 +14,4 @@ ls *.sam | cut -d . -f 1 | sort | uniq \
 	  
 	  samtools index /bam_sam_IP/bam_sorted_rmvdup/${id}_sorted_rmvdups.bam
 
-
       done
