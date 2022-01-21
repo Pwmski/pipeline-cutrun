@@ -10,7 +10,6 @@ Pipeline for cut&amp;run analysis:
 7. Read counting: Deeptools multiBigwigSummary on bigwigfiles [with a given reference genomic region BED files]
 
 Pawel Mikulski <br />
-Jansen group, Dept. of Biochemistry <br />
 University of Oxford
 
 
