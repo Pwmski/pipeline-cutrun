@@ -1,5 +1,5 @@
 # pipeline-cutrun
-Pipeline for cut&amp;run analysis:
+Pipeline for Cut&mmp;Run analysis:
 
 1. Concatenation of fastq files from separate Illumina HiSeq sequencing lanes into one
 2. Quality control: FASTQC analysis
